@@ -4,3 +4,5 @@ build/
 dist/
 /resources/LICENSE.txt
 /resources/THIRD_PARTY_LICENSES.txt
+config.bat
+node_modules
